@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
 ### Saudações! Eu sou Stefano Calheiros Stringhini 👋
 
@@ -17,16 +17,22 @@ https://devicon.dev
 - 📖 Graduando em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná
 - 🤖 Entusiasta em projetar robôs 
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Noghiros&show_icons=true&count_private=true&hide_border=true&title_color=3590c7&icon_color=3590c7&text_color=c9d1d9&bg_color=0d1117" alt="Noghiros github stats" />   <img width="41%" height="195px" 
+                                                                                                                                                                                                                         src="https://github-readme-stats.vercel.app/api/top-langs/?username=noghiros&layout=compact&hide_border=true&title_color=3590c7&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 ##
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Stefano-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Stefano-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Stefano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Stefano-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
-  <img align="center" alt="Stefano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Stefano-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="Stefano-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Stefano-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Stefano-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Stefano-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
+  <img align="center" alt="Stefano-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Stefano-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   </div>
   
 ## 
@@ -37,4 +43,13 @@ https://devicon.dev
   <a href="https://www.instagram.com/noghiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383fff&height=120&section=footer"/>
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{noghiros}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
