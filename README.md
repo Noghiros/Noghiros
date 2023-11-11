@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383fff&height=120&section=header"/>
+
 ### Saudações! Eu sou Stefano Calheiros Stringhini 👋
 
 <!--
