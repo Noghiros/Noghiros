@@ -1,11 +1,9 @@
 ### Saudações! Eu sou Stefano Calheiros Stringhini 👋
 
 <!--
-**Noghiros/Noghiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-(https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 
@@ -36,3 +34,5 @@ https://devicon.dev
   <a href="https://www.linkedin.com/in/noghiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/noghiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383fff&height=120&section=footer"/>
