@@ -15,8 +15,8 @@ https://devicon.dev
 -->
 
 - 📖 Graduando em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná
-- 🤖 Entusiasta em projetar robôs
-- 💻 Back-end developer 
+- 🤖 Entusiasta em projetar robôs e sistemas embarcados
+- 💻 Full-stack developer 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Noghiros&show_icons=true&count_private=true&hide_border=true&title_color=3590c7&icon_color=3590c7&text_color=c9d1d9&bg_color=0d1117" alt="Noghiros github stats" />   
@@ -33,7 +33,6 @@ https://devicon.dev
   <img align="center" alt="Stefano-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Stefano-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Stefano-JSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />                
-  <img align="center" alt="Stefano-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
   <img align="center" alt="Stefano-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Stefano-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Stefano-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
